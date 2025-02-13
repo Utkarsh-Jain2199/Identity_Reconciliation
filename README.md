@@ -115,5 +115,5 @@ npm run dev
 For questions or support, please contact:
 - **Email:** utkarsh.jain2199@gmail.com
 - **GitHub:** [https://github.com/Utkarsh-Jain2199/Identity_Reconciliation]
-- **Demo Link:** [(https://identity-reconciliation-bmmq.onrender.com/api/identify)]
+- **Demo Link:** [https://identity-reconciliation-bmmq.onrender.com/api/identify]
 
